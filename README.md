@@ -1,2 +1,3 @@
 # -Banking_Finance-GARCH-Models-in-Python
 Volatility is an essential concept in finance, which is why GARCH models in Python are a popular choice for forecasting changes in variance, specifically when working with time-series data that are time-dependant. 
+ implement GARCH models, how to specify model assumptions, and how to make volatility forecasts and evaluate model performance. Using real-world data, including historical Tesla stock prices, quantify portfolio risks, through calculations of Value-at-Risk, covariance, and stock Beta.  a wide range of assets, including stocks, indices, cryptocurrencies, and foreign exchange, preparing you to go forth and use GARCH models.
